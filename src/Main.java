@@ -33,5 +33,6 @@ public class Main {
         System.out.println(letters.size());
         System.out.println("-------------");
 
+        System.out.println("Done");
     }
 }
